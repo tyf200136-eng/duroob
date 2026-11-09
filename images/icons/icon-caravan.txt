@@ -1,0 +1,8 @@
+اسم الملف: icon-caravan.svg
+المسار: images/icons/icon-caravan.svg
+مكانها في الموقع: أيقونة كرت «النقل التخصصي»
+اسم الطبقة في فيقما: caravan
+المقاس في التصميم: 50 × 50 بكسل
+الصيغة: SVG
+
+طريقة التصدير: حدد الطبقة في فيقما ← Export ← SVG ← احفظها بالاسم «icon-caravan.svg» داخل مجلد images/icons.

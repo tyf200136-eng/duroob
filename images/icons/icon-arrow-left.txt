@@ -1,0 +1,8 @@
+اسم الملف: icon-arrow-left.svg
+المسار: images/icons/icon-arrow-left.svg
+مكانها في الموقع: السهم داخل زر «سجل معنا كـ نشمي»
+اسم الطبقة في فيقما: arrow_left_alt
+المقاس في التصميم: 30 × 30 بكسل
+الصيغة: SVG
+
+طريقة التصدير: حدد الطبقة في فيقما ← Export ← SVG ← احفظها بالاسم «icon-arrow-left.svg» داخل مجلد images/icons.

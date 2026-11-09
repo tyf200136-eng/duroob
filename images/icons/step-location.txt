@@ -1,0 +1,8 @@
+اسم الملف: step-location.svg
+المسار: images/icons/step-location.svg
+مكانها في الموقع: أيقونة الخطوة 1 «حدد موقعك»
+اسم الطبقة في فيقما: location_on
+المقاس في التصميم: 50 × 50 بكسل
+الصيغة: SVG
+
+طريقة التصدير: حدد الطبقة في فيقما ← Export ← SVG ← احفظها بالاسم «step-location.svg» داخل مجلد images/icons.

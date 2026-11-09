@@ -1,0 +1,8 @@
+اسم الملف: step-percent.svg
+المسار: images/icons/step-percent.svg
+مكانها في الموقع: أيقونة الخطوة 3 «استلم العروض»
+اسم الطبقة في فيقما: percent_discount
+المقاس في التصميم: 50 × 50 بكسل
+الصيغة: SVG
+
+طريقة التصدير: حدد الطبقة في فيقما ← Export ← SVG ← احفظها بالاسم «step-percent.svg» داخل مجلد images/icons.

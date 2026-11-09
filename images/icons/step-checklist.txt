@@ -1,0 +1,8 @@
+اسم الملف: step-checklist.svg
+المسار: images/icons/step-checklist.svg
+مكانها في الموقع: أيقونة الخطوة 2 «اختر الخدمة»
+اسم الطبقة في فيقما: checklist_rtl
+المقاس في التصميم: 50 × 50 بكسل
+الصيغة: SVG
+
+طريقة التصدير: حدد الطبقة في فيقما ← Export ← SVG ← احفظها بالاسم «step-checklist.svg» داخل مجلد images/icons.

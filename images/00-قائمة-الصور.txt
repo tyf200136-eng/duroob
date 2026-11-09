@@ -1,0 +1,23 @@
+قائمة كل الصور المطلوبة للموقع
+========================================
+صدّر كل طبقة من فيقما بنفس الاسم، وحطها في نفس المسار.
+
+- images/hero-phones.png   ←   صورة الجوالين في أعلى الصفحة (الهيرو) - يسار   (791 × 704)
+- images/google-play.png   ←   زر Google Play (يُستخدم في الهيرو وفي آخر الصفحة)   (217 × 64)
+- images/app-store.png   ←   زر App Store (يُستخدم في الهيرو وفي آخر الصفحة)   (192 × 64)
+- images/steps-bg.png   ←   خلفية قسم «كيف تطلب دروب ؟» (صورة الشاحنة)   (1441 × 721)
+- images/partner-phones.png   ←   صورة الجوالين في قسم «كن شريكاً في النجاح»   (800 × 723)
+- images/download-bg.png   ←   خلفية القسم الأخير «أبداء رحلتك الاولى» (صورة الصناديق)   (1663 × 1174)
+- images/download-phones.png   ←   صورة الجوالين في القسم الأخير   (981 × 764)
+- images/icons/icon-passenger.svg   ←   أيقونة كرت «الركاب و الطرد» (داخل المربع الأزرق)   (50 × 50)
+- images/icons/icon-tow.svg   ←   أيقونة كرت «خدمات السحب - السطحات»   (64 × 64)
+- images/icons/icon-caravan.svg   ←   أيقونة كرت «النقل التخصصي»   (50 × 50)
+- images/icons/step-location.svg   ←   أيقونة الخطوة 1 «حدد موقعك»   (50 × 50)
+- images/icons/step-checklist.svg   ←   أيقونة الخطوة 2 «اختر الخدمة»   (50 × 50)
+- images/icons/step-percent.svg   ←   أيقونة الخطوة 3 «استلم العروض»   (50 × 50)
+- images/icons/step-route.svg   ←   أيقونة الخطوة 4 «تتبع رحلتك»   (50 × 50)
+- images/icons/icon-check.svg   ←   أيقونة الصح بجانب مزايا قسم «كن شريكاً» (نفس الأيقونة للثلاث مزايا)   (36 × 36)
+- images/icons/icon-arrow-left.svg   ←   السهم داخل زر «سجل معنا كـ نشمي»   (30 × 30)
+- images/icons/icon-call.svg   ←   أيقونة الهاتف في قسم «تواصل معنا»   (47 × 47)
+- images/icons/icon-mail.svg   ←   أيقونة البريد في قسم «تواصل معنا»   (47 × 47)
+- images/icons/icon-chevron.svg   ←   السهم الصغير في كل سؤال من الأسئلة الشائعة   (20 × 20)
